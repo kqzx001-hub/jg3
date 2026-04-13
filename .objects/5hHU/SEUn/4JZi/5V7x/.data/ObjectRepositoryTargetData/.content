@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Lz04C3sTaECjnUXSSvhhuw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.naver.com/sise/sise_market_sum.naver" DesignTimeRectangle="651, 544, 56, 12" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='contentarea' tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='tltle' aaname='삼성전자' check:innerText='삼성전자' /&gt;" Guid="3f7e2ef5-014a-4a24-9fe6-b1da16e3e84c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='시가총액 : Npay 증권' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="241d17f64f8bac291acb1fd3314e3559.png" xmlns="">0vFS6vqVi-Eayn6mgL1GFUg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

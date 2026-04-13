@@ -1,0 +1,14 @@
+﻿{
+  "Name": "삼성전자",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "5V7x77UKfUesHlhudGGhRQ",
+  "Reference": "yaINA4YcGUeCkcEugDn0Hw/5V7x77UKfUesHlhudGGhRQ",
+  "ParentRef": "yaINA4YcGUeCkcEugDn0Hw/4JZihKa4GkeppE0tg8g_xA",
+  "Created": "2026-04-09T05:46:14.6776126Z",
+  "Updated": "2026-04-09T05:46:14.6776126Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
